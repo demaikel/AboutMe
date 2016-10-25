@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sobre Michael</string>
+    <string name="bio">
+        Tecnólogo en informática biomédica egresado de MBA con especialización en salud en UNAB,
+        Actualmente estudio un Bootcamp de Diseño Android en Desafío LATAM.
+        Aplico las tecnologías de la información para optimizar la gestión, la eficiencia
+        y la calidad en salud.</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
